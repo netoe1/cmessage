@@ -21,4 +21,3 @@ To make your job look easier, I've made a control version with Tkinter, in pytho
 
 If you use Windows, go fuck yourself
 
-# Table: (paste here)!

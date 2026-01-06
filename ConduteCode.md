@@ -1,51 +1,52 @@
-# Código de Conduta: Cmessage (Vertex Project)
+# Code of Conduct: Cmessage (Vertex Project)
 
-## 1. Propósito e Aplicação
+## 1. Purpose and Scope
 
-O propósito deste Código de Conduta é estabelecer os padrões de comportamento ético esperados de todos os colaboradores, parceiros, fornecedores e membros da comunidade. Todos devem aderir a estes princípios no desempenho de suas atividades.
+The purpose of this Code of Conduct is to establish the standards of ethical behavior expected from all collaborators, partners, suppliers, and community members. Everyone must adhere to these principles in the performance of their activities.
 
-## 2. Nossos Valores Fundamentais
+## 2. Our Core Values
 
-Nossas ações são guiadas pelos seguintes valores:
+Our actions are guided by the following values:
 
-*   **Integridade:** Agir de forma honesta e transparente em todas as interações.
-*   **Respeito:** Tratar todos com dignidade, justiça e consideração, independentemente de diferenças.
-*   **Responsabilidade:** Assumir a responsabilidade por nossas ações e seus impactos.
-*   **Colaboração:** Promover um ambiente de trabalho inclusivo e de apoio mútuo.
+- **Integrity:** Acting honestly and transparently in all interactions.
+- **Respect:** Treating everyone with dignity, fairness, and consideration, regardless of differences.
+- **Responsibility:** Taking responsibility for our actions and their impacts.
+- **Collaboration:** Promoting an inclusive work environment based on mutual support.
 
-## 3. Conduta Esperada
+## 3. Expected Conduct
 
-Esperamos que todos os membros da comunidade:
+We expect all community members to:
 
-*   Sejam profissionais e corteses em todas as comunicações e interações.
-*   Abstenham-se de assédio, discriminação, bullying ou qualquer forma de comportamento ofensivo.
-*   Respeitem a propriedade intelectual e as informações confidenciais da organização e de terceiros.
-*   Evitem conflitos de interesse e, se surgirem, reportem-nos imediatamente.
-*   Utilizem os recursos da organização de forma responsável e apropriada.
+- Be professional and courteous in all communications and interactions.
+- Refrain from harassment, discrimination, bullying, or any form of offensive behavior.
+- Respect intellectual property and confidential information belonging to the organization and third parties.
+- Avoid conflicts of interest and report them immediately if they arise.
+- Use organizational resources responsibly and appropriately.
 
-## 4. Comportamento Inaceitável
+## 4. Unacceptable Behavior
 
-Os seguintes comportamentos são considerados violações graves deste código:
+The following behaviors are considered serious violations of this Code:
 
-*   Assédio moral ou sexual.
-*   Discriminação baseada em raça, gênero, orientação sexual, religião, idade, deficiência, etc..
-*   Intimidação, ameaças ou violência.
-*   Fraude, suborno ou corrupção.
-*   Violações intencionais de leis, políticas internas ou acordos de confidencialidade.
+- Moral or sexual harassment.
+- Discrimination based on race, gender, sexual orientation, religion, age, disability, or any other protected characteristic.
+- Intimidation, threats, or violence.
+- Fraud, bribery, or corruption.
+- Intentional violations of laws, internal policies, or confidentiality agreements.
 
-## 5. Relato de Violações (Canal de Denúncia)
+## 5. Reporting Violations (Whistleblowing Channel)
 
-Se você presenciar ou suspeitar de uma violação deste código, é sua responsabilidade reportá-la. Os relatos podem ser feitos através do nosso [Link para o Canal de Denúncia ou e-mail/contato específico, ex: `compliance@organizacao.com.br`] ou por meio do [Canal de Denúncia Externo/Interno](url).
+If you witness or suspect a violation of this Code, it is your responsibility to report it. Reports may be submitted through our [Whistleblowing Channel link or specific email/contact, e.g., `compliance@organization.com`] or via the [Internal/External Reporting Channel](url).
 
-Garantimos a confidencialidade e a não retaliação para relatos feitos de boa-fé.
+We guarantee confidentiality and protection against retaliation for reports made in good faith.
 
-## 6. Consequências
+## 6. Consequences
 
-A inobservância deste Código de Conduta resultará em medidas disciplinares, que podem incluir, mas não se limitam a, advertência verbal, suspensão ou rescisão do contrato/vínculo, dependendo da gravidade da violação.
+Failure to comply with this Code of Conduct will result in disciplinary measures, which may include, but are not limited to, verbal warnings, suspension, or termination of contract/association, depending on the severity of the violation.
 
-## 7. Revisão do Documento
+## 7. Document Review
 
-Este código será revisado periodicamente para garantir sua relevância e eficácia.
+This Code will be reviewed periodically to ensure its relevance and effectiveness.
 
 ---
-*Data da última atualização: 6 de Janeiro de 2026*
+
+*Last updated: January 6, 2026*
